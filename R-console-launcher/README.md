@@ -1,8 +1,9 @@
-R default desktop launcher kindaa sukkss.\
+R default desktop launcher looks bad.\
 The default launcher simply executes a command "**R**"
 
+**To change that**
 
-First run a **chmod +x** on the script file. eg. `chmod +x Rdesktop.sh` \
+First run a **chmod +x** on the script file in this repo. eg. `chmod +x Rdesktop.sh` 
 
 Now open default R.desktop file. \
 Replace the default command 'R' with the absolute path of this script in EXEC section of the desktop file or\
