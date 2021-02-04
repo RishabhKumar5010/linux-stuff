@@ -11,3 +11,9 @@ If it makes your life easy too, Great!!
 
 ### Licensing
 Contents of this repo are **UNLICENSED**
+
+
+
+## Contents:
+
+* R-console-launcher : If you are not a fan of default R console. Check this out.
