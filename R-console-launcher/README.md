@@ -12,7 +12,7 @@ Replace the default command 'R' with the absolute path of this script in EXEC se
 simply in the command section in a GUI based desktop file edior.
 
 ### If you don't have access to R.desktop
-it's usually present in `/usr/share/applications`
+it's usually present in `/usr/share/applications` \
 at least when you have installed R properly on your system \
 and haven't messed up. \
 Anyways you can have a look on this link on template of .desktop files\
