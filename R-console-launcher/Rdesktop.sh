@@ -1,5 +1,5 @@
 #!/bin/bash
-echo Welcome Galaxy
+echo Welcome $USER
 
 #terminal title
 echo -ne "\033]0;R Statistical Computing\007"
