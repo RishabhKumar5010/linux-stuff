@@ -15,7 +15,7 @@ simply in the command section in a GUI based desktop file edior.
 it's usually present in `/usr/share/applications` \
 at least when you have installed R properly on your system and haven't messed up. \
 
-Anyways you can have a look on this link on template of .desktop files\
+Anyways you can have a look on this link on template of `.desktop` files\
 https://developer.gnome.org/integration-guide/stable/desktop-files.html.en \
 and create one yourself.
 
