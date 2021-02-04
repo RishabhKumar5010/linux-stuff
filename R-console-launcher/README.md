@@ -15,3 +15,9 @@ installed R properly on your system and haven't messed up. \
 Anyways you can have a look on this link on template of .desktop files\
 https://developer.gnome.org/integration-guide/stable/desktop-files.html.en \
 and create one yourself.
+
+
+## Before and After
+
+
+![alt before-after.png](before-after.png)
