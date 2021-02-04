@@ -1,8 +1,15 @@
 ## Why this script exists ?
 R default desktop launcher looks bad.\
-The default launcher simply executes a command "**R**"
+The default launcher simply executes a command "**R**"\
+Now the default R command prints version, licensing and other info,\
+which to me as a user is not required everytime I need the tool\
 
-**To change that**
+This script only keeps R version info,\ 
+adds a welcome text for `$USER`\
+and a prompt for *q() to quit*  #which is handy if you are used to saving workspace before exit.
+
+
+## How to Execute
 
 First run a **chmod +x** on the script file in this repo. \
 eg. `chmod +x Rdesktop.sh` 
