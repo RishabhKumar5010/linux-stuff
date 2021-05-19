@@ -2,9 +2,9 @@
 R default desktop launcher looks bad.\
 The default launcher simply executes a command "**R**"\
 Now the default R command prints version, licensing and other info,\
-which to me as a user is not required everytime I need the tool
+which to me as a user is not required everytime I need the tool.
 
-This script only keeps R version info,\ 
+This script only keeps R version info,   
 adds a welcome text for `$USER`\
 and a prompt for *q() to quit*  #which is handy if you are used to saving workspace before exit.
 
